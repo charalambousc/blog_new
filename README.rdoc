@@ -1,4 +1,4 @@
-Test Rails Blog App - Jeffruy Examene
+Test rails app - Pambos
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
